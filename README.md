@@ -1,6 +1,7 @@
 # **Titanic Dataset Analysis – Exploratory Data Analysis (EDA)**  
 
 ## **Overview**  
+The sinking of the RMS Titanic on April 15, 1912, remains one of the most tragic maritime disasters in history. During its maiden voyage, the ship deemed "unsinkable" struck an iceberg and sank, resulting in the deaths of 1,502 out of 2,224 passengers and crew. Although chance played a role in survival, data suggest that certain demographic groups had significantly higher survival rates than others.
 This project explores survival patterns in the Titanic disaster using EDA. The analysis identifies key factors influencing survival, such as socio-economic status, gender, age, and fare.  
 
 ## **Key Findings**  
